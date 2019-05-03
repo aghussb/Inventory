@@ -1,0 +1,545 @@
+body{
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+.time{
+	font-size: 75px;
+	font-family: 'Roboto', sans-serif;
+	margin: -15px 0px 0px 345px;
+	position: absolute;
+}
+.date{
+	margin-left: 25px;
+	margin-top: -10px;
+}
+.high{
+	font-size:100px;
+}
+.lbl{
+	font-family:'Roboto';
+	font-weight:500;
+}
+.center{
+	margin: 210px 0px 0px 250px;
+}
+.ver{
+	width: 1px;
+	height: 550px;
+	background-color: grey;
+	margin: -505px 0px 0px 625px;
+	border: 50px;
+	opacity: 0.5;
+	position: absolute;
+}
+.box{
+	width: 300px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	padding: 485px 0px 0px 0px;
+	margin: 65px 0px 0px 880px;
+	opacity: 0.2;
+	position: absolute;
+}
+.asd{
+	width:250px;
+}
+.reg{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	margin: 0px 0px 0px 960px;
+	line-height: 195px;
+}
+.reg1{
+	font-size: 75px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	position: absolute;
+	margin: -410px 0px 0px 165px;
+}
+.reg-typed{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+.tab{
+	position: absolute;
+	margin-top: -1px;
+}
+.pos{
+	margin-top: 75px;
+}
+
+
+/* Typhography Teamwork */
+.typo1{
+	position:absolute;
+	margin: 45px 0px 0px -100px;
+	color: black;
+}
+.training{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	margin: 240px 0px 0px 615px;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	position: absolute;
+}
+#trapezoid {
+    border-bottom: 100px solid black;
+	border-left: 50px solid transparent;
+	height: 0;
+	width: 500px;
+	margin: 250px 0px 0px 1000px;
+	transform: rotate(165deg);
+	transform-origin: left top 0;
+	position: absolute;
+}
+.teamwork{
+	transform: rotate(180deg);
+	transform-origin: left top 0;
+	position: absolute;
+	margin: 100px 0px 0px 435px;
+	font-family: arial;
+	font-weight: bolder;
+	font-size: 70px;
+	color: white;
+}
+.solution{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 324px 0px 0px 422px;
+}
+.leader{
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 348px 0px 0px 387px;
+}
+.collaboration{
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 378px 0px 0px 412px;
+}
+.philosophy{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 248px 0px 0px 498px;
+}
+.business{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 270px 0px 0px 427px;
+}
+.mission{
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 218px 0px 0px 551px;
+}
+.directing{
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 243px 0px 0px 437px;
+}
+.skils{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 217px 0px 0px 559px;
+}
+.emotional{
+	font-size: 22px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 222px 0px 0px 545px;
+}
+.conduct{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 218px 0px 0px 474px;
+}
+.leadership{
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 185px 0px 0px 660px;
+}
+.team{
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 148px 0px 0px 650px;
+}
+.commitment{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 163px 0px 0px 763px;
+}
+.motivation{
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 139px 0px 0px 788px;
+}
+.innovation{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 118px 0px 0px 782px;
+}
+.manager{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 122px 0px 0px 780px;
+}
+.management{
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 134px 0px 0px 739px;
+}
+.strength{
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 135px 0px 0px 668px;
+}
+.member{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 370px 0px 0px 528px;
+}
+.ability{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 390px 0px 0px 595px;
+}
+.respect{
+	font-size: 45px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 534px 0px 0px 718px;
+}
+.company{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 472px 0px 0px 691px;
+}
+.goal{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 316px 0px 0px 712px;
+}
+.vision{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 292px 0px 0px 845px;
+}
+.trust{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 366px 0px 0px 728px;
+}
+.commerce{
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 320px 0px 0px 855px;
+}
+.people{
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 466px 0px 0px 812px;
+}
+.assignment{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-105deg);
+	transform-origin: left top 0;
+	margin: 484px 0px 0px 756px;
+}
+.power{
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 336px 0px 0px 815px;
+}
+.scs{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	transform: rotate(-15deg);
+	transform-origin: left top 0;
+	margin: 424px 0px 0px 564px;
+}
+
+/* Typhography Future */
+.typo2{
+	margin: 0px 0px 0px 0px;
+}
+.your{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 150px 0px 0px 300px;
+}
+.future{
+	font-size: 75px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: #fefe43;
+	margin: 108px 0px 0px 405px;
+}
+.icbw{
+	font-size: 35px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 150px 0px 0px 690px;
+}
+.yd{
+	font-size: 125px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 200px 0px 0px 50px;
+}
+.not{
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: black;
+	margin: 365px 0px 0px 300px;
+}
+.bkkk{
+	font-size: 250px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 150px 0px 0px 516px;
+}
+.today{
+	font-size: 170px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 164px 0px 0px 610px;
+}
+.ttkk{
+	font-size: 130px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: grey;
+	margin: 185px 0px 0px 1170px;
+}
+.tomorrow{
+	font-size: 90px;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	color: black;
+	margin: 365px 0px 0px 615px;
+}
+
+/* Typhography Nothing */
+.typo3{
+	margin: 145px 0px 0px 500px;
+}
+.live{
+	position:absolute;
+	font-size:65px;
+	background-color:black;
+	color:white;
+}
+.your2{
+	position: absolute;
+	font-size: 65px;
+	background-color: black;
+	color: white;
+	margin: 110px 0px 0px 0px;
+}
+.dream{
+	position: absolute;
+	font-size: 65px;
+	background-color: black;
+	color: white;
+	margin: 220px 0px 0px 0px;
+}
+
+/* Transition Fade */
+.typo1 {
+    animation:fade 30s infinite;
+	-webkit-animation:fade 10s infinite;
+	
+}
+.typo2 {
+    animation:fade2 30s infinite;
+	-webkit-animation:fade2 10s infinite;
+}
+.typo3 {
+    animation:fade3 30s infinite;
+	-webkit-animation:fade3 10s infinite;
+}
+@keyframes fade
+{
+	0%   {opacity:1}
+	33.333% { opacity: 0}
+	66.666% { opacity: 0}
+	100% { opacity: 1}
+}
+@keyframes fade2
+{
+	0%   {opacity:0}
+	33.333% { opacity: 1}
+	66.666% { opacity: 0 }
+	100% { opacity: 0}
+}
+@keyframes fade3
+{
+	0%   {opacity:0}
+	33.333% { opacity: 0}
+	66.666% { opacity: 1}
+	100% { opacity: 0}
+}
+
+/* Alert Bootstrap */
+
+/* Alert Auth */
+.passwr{
+	position: absolute;
+	margin: 60px 0px 0px 1095px;
+	width: 200px;
+}
+.dttdk{
+	position: absolute;
+	margin: 60px 0px 0px 1095px;
+	width: 200px;
+}
+.bheml{
+	position: absolute;
+	margin: 60px 0px 0px 1095px;
+	width: 200px;
+}
+.emtdk{
+	position: absolute;
+	margin: 60px 0px 0px 1095px;
+	width: 200px;
+}
+.bhrgst{
+	position: absolute;
+	margin: 60px 0px 0px 1095px;
+	width: 200px;
+}
+
+/* Alert Data Master*/
+.alert-location{
+	position: absolute;
+	width: 200px;
+	z-index: 1000;
+	margin: -15px 0px 0px 1095px;
+}
+
+/* Validator Bootstrap */
+
+/* Validator Barang */
+.v_bedit_bnr{
+	margin-top:25px;
+}
+.v_bedit_slah{
+	margin-top:25px;
+}
+
+/* Validator Pelanggan */
+.v_pedit_bnr{
+	margin-top:25px;
+}
+.v_pedit_slah{
+	margin-top:25px;
+}
+
+/* Validator Suplier */
+.v_sedit_bnr{
+	margin-top:25px;
+}
+.v_sedit_slah{
+	margin-top:25px;
+}
+
+/* Form Button */
+.frm_btn_pnjl{
+	margin-left:15px;
+}
+.frm_btn_pmbl{
+	margin-left:15px;
+}
